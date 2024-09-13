@@ -5,3 +5,9 @@ backend/node_modules
 backend/package*
 
 backend/.env
+
+backend/docker.env
+
+backend/Dockerfile
+
+backend/docker-compose.yml
