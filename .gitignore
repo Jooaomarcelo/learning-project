@@ -11,3 +11,7 @@ backend/docker.env
 backend/Dockerfile
 
 backend/docker-compose.yml
+
+tasks.http
+
+.prettierrc
